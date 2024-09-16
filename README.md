@@ -21,9 +21,7 @@ Predict the probability of customer churn based on demographic data, service usa
 
 ## __Project Structure__
 - __data__ – contains the dataset
-- __notebooks__ – Jupyter notebooks with code for data analysis and modeling
-- __models__ – saved models for predictions
-- __src__ – main project code
+- __notebook__ – notebook with code for data analysis and modeling
 - __README.md__ – project description
 
 ## __Dataset__
