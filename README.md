@@ -1,17 +1,28 @@
 Customer Churn Prediction
+
 Project Description
+
 This project focuses on predicting customer churn based on their demographic information and service subscription data. The goal of the project is to help the company develop customer retention programs, reducing the risk of churn.
 
-The dataset used was taken from IBM's sample data, and each customer is described by several features, such as service usage, payment information, and demographics.
+The dataset used was taken from Kaggle, and each customer is described by several features, such as service usage, payment information, and demographics.
 
 Technologies
-Python – the main language used in the project
-scikit-learn – for traditional machine learning models
-XGBoost – for building classification models
-Pandas and NumPy – for data manipulation
-Matplotlib and Seaborn – for data visualization
-Google Cloud Platform (GCP) – for cloud data processing
-Objective
+
+  Python – the main language used in the project
+
+  scikit-learn – for traditional machine learning models
+
+  XGBoost – for building classification models
+
+  Pandas and NumPy – for data manipulation
+
+  Matplotlib and Seaborn – for data visualization
+
+  Google Cloud Platform (GCP) – for cloud data processing
+
+  Objective
+
+
 Predict the probability of customer churn based on demographic data, service usage, and payment information. Key evaluation metrics include model accuracy, F1 score, precision, and recall.
 
 Project Structure
