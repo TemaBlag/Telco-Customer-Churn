@@ -1,6 +1,6 @@
 #__Customer Churn Prediction__#
 
-##__Project Description__##
+#__Project Description__
 
 This project focuses on predicting customer churn based on their demographic information and service subscription data. The goal of the project is to help the company develop customer retention programs, reducing the risk of churn.
 
