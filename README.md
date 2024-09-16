@@ -8,11 +8,11 @@ The dataset used was taken from Kaggle, and each customer is described by severa
 
 Technologies
 
-*Python – the main language used in the project*
-*scikit-learn – for traditional machine learning models*
-*XGBoost – for building classification models*
-*Pandas and NumPy – for data manipulation*
-*Matplotlib and Seaborn – for data visualization*
+- [x]Python – the main language used in the project
+- []scikit-learn – for traditional machine learning models
+- []XGBoost – for building classification models
+- []Pandas and NumPy – for data manipulation
+- []Matplotlib and Seaborn – for data visualization
 
   Objective
 
