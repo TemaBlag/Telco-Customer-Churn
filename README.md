@@ -4,7 +4,7 @@
 
 This project focuses on predicting customer churn based on their demographic information and service subscription data. The goal of the project is to help the company develop customer retention programs, reducing the risk of churn.
 
-The dataset used was taken from Kaggle, and each customer is described by several features, such as service usage, payment information, and demographics.
+The dataset used was taken from Kaggle - [__Telco Customer Churn__](https://www.kaggle.com/datasets/blastchar/telco-customer-churn), and each customer is described by several features, such as service usage, payment information, and demographics.
 
 ## __Technologies__
 
