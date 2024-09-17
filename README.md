@@ -41,6 +41,9 @@ Several models were used in the project:
 - __Support Vector Machine (SVM)__
 - __XGBoost__
 
+## __Fine-Tuning with Optuna__
+Fine-tune a Logistic Regression model and CatBoostClassifier using Optuna for hyperparameter optimization. The tuning process involves optimizing key parameters such as C, penalty, and solver for Logistic Regression and iterations, learning_rate, depth and l2_leaf_reg for CatBoost to maximize model performance. Optuna automates the hyperparameter search using a tree-structured Parzen estimator (TPE), making the tuning process efficient and scalable.
+
 ## __Results__
 The models were evaluated using several metrics:
 
