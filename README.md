@@ -14,6 +14,9 @@ The dataset used was taken from Kaggle - [__Telco Customer Churn__](https://www.
 - __Pandas and NumPy__ – for data manipulation
 - __Matplotlib and Seaborn__ – for data visualization
 
+## __Notebook__
+* churn_prediction: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TemaBlag/Telco-Customer-Churn/blob/main/churn_prediction.ipynb)
+
 ## __Objective__
 
 
